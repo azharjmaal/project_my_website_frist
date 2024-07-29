@@ -1,0 +1,113 @@
+
+a{
+ text-decoration: none;
+ color: rgb(0, 122, 116);
+  
+}
+.one {
+  background-color: cadetblue; 
+  margin:10px;
+  height: 55px;
+  width: 100%;
+  position:relative;
+  top: 2px;
+  left: 0px;
+}
+.header{
+  width:10%;
+  text-align: center; 
+ position: relative; 
+ left:90%;
+ top:25x;
+  
+}
+th{
+  color: darkolivegreen;
+}
+img{
+  
+  width:100%;
+  height:450px;
+  
+  
+}
+.prar
+{
+  text-align: center;
+  
+
+  
+}
+p{ text-align: center; }
+
+
+
+
+h1 {
+
+  text-align: center;
+}
+#about{
+  width:5% ; 
+   border-width: 3px; ;
+}
+.para {
+
+  width: 40%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding :20px;
+  position: relative;
+  left: 27%;
+
+}
+
+#contact{ 
+  width: 3%;
+  border-width: 3px;
+  color:#456fa0;
+  background-color: #456fa0;
+    }
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px ;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color:#456fa0;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  
+}
+
+input[type=submit]:hover {
+  background-color: #456fa0;
+}
+
+.sss {
+
+  width: 40%;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding :20px;
+  position: relative;
+  left: 29%;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #456fa0;
+  color: white;
+}
